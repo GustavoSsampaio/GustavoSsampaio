@@ -44,7 +44,7 @@
 <br>  <p align="center"><img width=80% align="center" src="https://i.pinimg.com/originals/a3/c7/35/a3c7357e33061a3fc4f43fdd2622cbfb.gif" /></p> 
 <br>
 </div>
-
+<!--
 ![Snake animation](https://github.com/GustavoSsampaio/GustavoSsampaio/blob/output/github-contribution-grid-snake.svg)
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=822BD9&height=140&section=footer"/>
